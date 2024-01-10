@@ -41,6 +41,8 @@
             <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
                         src="https://i.imgur.com/DZgetVv.png" /></a>
             </td>
+            <td><a href="#"><img alt="Powershell title ="Powershell" height="28px"
+                        src="https://img.icons8.com/color/48/000000/powershell.png" /></a>
         </tr>
         <tr>
             <td><a href="#"><img alt="Terminal" title="Terminal" height="28px"
