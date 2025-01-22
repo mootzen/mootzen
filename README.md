@@ -44,3 +44,5 @@
         </tr>
     </tbody>
 </table>
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/silentb0b.png" alt="Your Image Badge" />
