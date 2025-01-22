@@ -9,6 +9,10 @@
 
 ### openPGP Fingerprint: C02BEDA57ED57959407BA0DBB8F1E550B5E45AE0
 
+### THM
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/silentb0b.png" alt="Your Image Badge" />
+
 ## 👨‍💻 Languages and Tools:
 
 <table>
@@ -44,5 +48,3 @@
         </tr>
     </tbody>
 </table>
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/silentb0b.png" alt="Your Image Badge" />
