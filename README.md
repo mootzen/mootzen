@@ -44,4 +44,5 @@
         </tr>
     </tbody>
 </table>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3853346" style='border:none;'></iframe>
+[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3853346)](https://tryhackme.com/p/yourusername)
+
