@@ -7,7 +7,8 @@ Security enthusiast from Germany
 
 ## 🙋‍♂️ Connect with me:
 
-### openPGP Fingerprint: C02BEDA57ED57959407BA0DBB8F1E550B5E45AE0
+### openPGP Fingerprint: 
+C02BEDA57ED57959407BA0DBB8F1E550B5E45AE0
 
 ### THM
 
