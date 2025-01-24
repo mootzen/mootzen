@@ -24,8 +24,8 @@ C02BEDA57ED57959407BA0DBB8F1E550B5E45AE0
             <td><a href="#"><img alt="Python" title="Python" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /></a>
             </td>
-            <td><a href="#"><img alt="AutoHotkey" title="AutoHotkey" height="28px"
-                        src="https://icons8.com/icon/U6p0CitRO8MS/autohotkey.png" /></a></td>
+            <td><a href="#"><img alt="Snort" title="Snort" height="28px"
+                        src="https://docs.snort.org/pics/Snort-3-logo_v.png" /></a></td>
             <td><a href="#"><img alt="Kotlin" title="Kotlin" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" /></a>
             </td>
