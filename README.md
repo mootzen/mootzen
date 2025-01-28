@@ -39,8 +39,8 @@ C02BEDA57ED57959407BA0DBB8F1E550B5E45AE0
             </td>
             <td><a href="#"><img alt="Markdown" title="Markdown" height="28px"
                         src="https://i.imgur.com/eO5z1xV.png" /></a></td>
-            <td><a href="#"><img alt="GitHub" title="GitHub" height="28px"
-                        src="https://i.imgur.com/DZgetVv.png" /></a>
+            <td><a href="#"><img alt="Wazuh" title="Wazuh" height="28px"
+                        src="https://upload.wikimedia.org/wikipedia/commons/1/13/Wazuh-orig.png" /></a>
             </td>
             <td><a href="#"><img alt="Powershell title ="Powershell" height="28px"
                         src="https://img.icons8.com/color/48/000000/powershell.png" /></a>
