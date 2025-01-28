@@ -26,8 +26,8 @@ C02BEDA57ED57959407BA0DBB8F1E550B5E45AE0
             </td>
             <td><a href="#"><img alt="Snort" title="Snort" height="28px"
                         src="https://docs.snort.org/pics/Snort-3-logo_v.png" /></a></td>
-            <td><a href="#"><img alt="Kotlin" title="Kotlin" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" /></a>
+            <td><a href="#"><img alt="Zeek" title="Zeek" height="28px"
+                        src="[https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png](https://i0.wp.com/zeek.org/wp-content/uploads/2020/04/zeek-logo-without-text.png)" /></a>
             </td>
             <td><a href="#"><img alt="Terminal" title="Terminal" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
