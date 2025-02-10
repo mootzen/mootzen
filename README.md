@@ -13,7 +13,7 @@ C02BEDA57ED57959407BA0DBB8F1E550B5E45AE0
 ### THM
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/silentb0b.png" alt="Your Image Badge" />
-<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3853346" />
+
 
 ## 👨‍💻 Languages and Tools:
 
