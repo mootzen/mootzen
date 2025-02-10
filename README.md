@@ -29,8 +29,8 @@ C02BEDA57ED57959407BA0DBB8F1E550B5E45AE0
             <td><a href="#"><img alt="Zeek" title="Zeek" height="28px"
                         src="https://i0.wp.com/zeek.org/wp-content/uploads/2020/04/zeek-logo-without-text.png" /></a>
             </td>
-            <td><a href="#"><img alt="GNU Bash" title="Bash" height="28px"
-                        src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gnu-bash-logo.svg" /></a>
+            <td><a href="#"><img alt="Wireshark" title="Wireshark" height="28px"
+                        src="https://www.wireshark.org/assets/icons/wireshark-fin@2x.png" /></a>
             </td>
         </tr>
         <tr>
