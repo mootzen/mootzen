@@ -1,5 +1,3 @@
-<a href="#"><img width="60%" height="auto" src="https://i.imgur.com/VfDEYPR.jpeg" height="175px"/></a>
-
 <h3 align="left">Hi, I'm <a href="https://mootzen.de">Mika</a> - aka mootzen </h3>
 
 ## 📖 About me
