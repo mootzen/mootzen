@@ -1,8 +1,5 @@
 <h3 align="left">Hi, I'm <a href="https://mootzen.de">Mika</a> - aka mootzen </h3>
 
-## 📖 About me
-Security enthusiast from Germany
-
 ## 🙋‍♂️ Connect with me:
 
 ### openPGP Fingerprint: 
