@@ -9,7 +9,6 @@ C02BEDA57ED57959407BA0DBB8F1E550B5E45AE0
 ### THM
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/silentb0b.png" alt="THM Image Badge" />
-<img src="https://tryhackme.com/recapme-2025/silentb0b?utm_campaign=social_share&utm_medium=social&utm_content=recapme25&utm_source=copy&sharerId=6746f104069f571349fada6c" alt="THM-Recap-2025">
 
 ## 👨‍💻 Languages and Tools:
 
