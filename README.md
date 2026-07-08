@@ -8,7 +8,7 @@ C02BEDA57ED57959407BA0DBB8F1E550B5E45AE0
 
 
 <a href="https://gitfut.com/mootzen">
-  <img src="https://gitfut.com/mootzen.png" alt="My GitFut card" width="400">
+  <img src="https://gitfut.com/mootzen.png" alt="My GitFut card" width="200">
 </a>
 
 
